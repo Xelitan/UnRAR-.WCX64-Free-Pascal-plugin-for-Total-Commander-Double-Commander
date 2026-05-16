@@ -1,5 +1,10 @@
 library RarWCX;
 
+// UnRAR plugin for Total Commander / Double Commander
+// Uses pure Pascal UnRAR library, no external dependencies
+// License: MIT
+// Author: www.xelitan.com
+
 {$mode objfpc}{$H+}
 {$E wcx64}
 
